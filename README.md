@@ -33,6 +33,8 @@ Este laboratorio tiene como objetivo analizar la señal electromiográfica (EMG)
 	Procedimientos:
 	•	Aplicar un filtro pasa altas para eliminar componentes de baja frecuencia (ruido asociado a la línea base o al movimiento).
 	•	Utilizar un filtro pasa bajas para eliminar frecuencias altas no deseadas, como el ruido electromagnético o de interferencia de alta frecuencia.
+ 
+
 
 [![Figure-2024-11-15-101438.png](https://i.postimg.cc/LsYQHkk5/Figure-2024-11-15-101438.png)](https://postimg.cc/7C4n92Wr)
 
